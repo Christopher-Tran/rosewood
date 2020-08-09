@@ -11,7 +11,7 @@ These docs aim to provide people with a little insight into Rosewood Community a
 
 ## Basics
 
-- ### [What/Why Community Housing?] (why_commune.md)
+- ### [What/Why Community Housing?] (./why_commune.md)
 - ### Rosewood History
 - ### Values
 
