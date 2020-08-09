@@ -1,25 +1,25 @@
 # Rosewood
 #### 08/09/2020
----
+
 
 Rosewood Community Housing is a collective started as a Rochdale Co-op 2011 in East Austin. Since it's inception Rosewood has been called home at some point by 60+ different Austinities, Humans, Dogs, Chickens, and Zucchinis. It has been a band's stage, an alcholic's resting, and a gamer's dungeon; a community that brings people together and allows them to strive individually and collectively. 
 Rosewood Community as of 2020 is best described as a non-hierarchical adhocracy. A community whose members may shape it into whatever fills their collective needs. 
 
 These docs aim to provide people with a little insight into Rosewood Community as well as allow other communities around the world to see how Rosewood operates. These docs are openly shared and are meant to be pulled from as wanted for the betterment of any individual or collective group. We encourage people to ask questions, provide suggestions and critics in any area as improvement is always welcome. 
 
----
+
 
 ## Basics
 
-- ### [What/Why Community Housing?] (./why_commune.md)
+- ### [What/Why Community Housing?] (basics/why_commune.md)
 - ### Rosewood History
 - ### Values
 
----
+
 
 ## Operations
 
----
+
 
 - ### Overarching Structures
 - ### Meetings
@@ -30,8 +30,7 @@ These docs aim to provide people with a little insight into Rosewood Community a
 - ### Outreach and Communications
 - ### Repairs and Maintenance 
 
----
+
 
 ## Austin Co-Ops/Community Resources
 
----
