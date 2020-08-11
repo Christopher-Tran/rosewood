@@ -20,7 +20,7 @@ These docs aim to provide people with a little insight into Rosewood Community a
 ## Operations
 
 
-- ### Overarching Structures
+- ### [Overarching Structures](operations/structures.md)
 - ### Meetings
 - ### Accounting
 - ### Acquisitions and Disposals
