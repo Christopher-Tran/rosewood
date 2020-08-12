@@ -1,5 +1,5 @@
 # Rosewood
-#### 08/09/2020
+#### 08/10/2020
 
 
 Rosewood Community Housing was founded in 2011 as a Rochdale Co-op in East Austin. Since it's inception Rosewood has been called home at some point by 60+ different Austinities, Humans, Dogs, Chickens, and Zucchinis. It has been a band's stage, an alcholic's resting, and a gamer's dungeon; a community that brings people together and allows them to strive individually and collectively. 
@@ -12,8 +12,8 @@ These docs aim to provide people with a little insight into Rosewood Community a
 ## Basics
 
 - ### [What/Why Community Housing?](basics/why_commune.md)
-- ### Rosewood History
 - ### Values
+- ### [Labor](basics/labor.md) 
 
 
 
