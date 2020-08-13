@@ -12,7 +12,7 @@ These docs aim to provide people with a little insight into Rosewood Community a
 ## Basics
 
 - ### [What/Why Community Housing?](basics/why_commune.md)
-- ### Values
+- ### [Values](basivs/values.md)
 - ### [Labor](basics/labor.md) 
 
 

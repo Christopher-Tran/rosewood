@@ -1,5 +1,5 @@
 # Rosewood Labor
-#### 08/12/2020
+#### 08/13/2020
 
 Labor in community living is similar to the personal chores one has in life. Labor in Rosewood strikes a balance between a set chore list and a free-form system. For example, one community may have a set amount of tasks that account for a number of credits (Kitchen Clean - 1hr) and everyone completes the same amount of credits/time period; others may simply have an adaptive to-do list with an expectation for members to contribute when they can. 
 
