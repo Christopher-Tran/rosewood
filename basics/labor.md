@@ -22,7 +22,8 @@ Rosewood uses an HP system to balance between the two. An HP system allows for a
  - Labor can be physical or intellectual in nature. Examples of intellectual labor include answering emails, putting together the retreat, research, etc.
  
 
- ### Mandatory Labor Shifts
+ ### Mandatory Cleaning Labor Shifts
+
  - Every member does one 40 minute cleaning shift/week.
  - If a mandatory shift is not completed at the end of a week an additional 1.5HP is deducted.
  - Mandatory Shifts work in a four week cycle. Within every four weeks a member's mandatory shift must make up two kitchen shifts, one bathroom shift, and one alternative shift.
@@ -30,7 +31,27 @@ Rosewood uses an HP system to balance between the two. An HP system allows for a
 
 
  ### Free-form Labor
- - Every member must do 180 minutes of labor each week. 140 minutes can be any labor outside mandatory labor that one would like to perform. Any task at the community that one feels contributes to its improvement. 
+
+ - Every member must do 180 minutes of labor each week. 140 minutes can be any labor outside Mandatory Cleaning Labor that one would like to perform. Any task at the community that one feels contributes to its improvement. 
  
 
  ### The Labor Board
+
+
+ ### Labor Exceptions
+
+ - Members out of town (OOT) must write the dates they are OOT on their labor square.
+    - Out of Town (OOT) is 4 or more days of a week. You are excused of all labor and will not lose 1HP if you are OOT for a meeting.
+    - Partial Out of Town (POOT) is 3 days of a week. You are excused for half of labor (90 minutes) but you must do your Mandatory Labor Shift and will still lose 1HP if a meeting is missed.
+ - Members renting out a room but in town are required to do labor as their guest is utilizing house resources.
+ - Members who attended the biannual retreat will be give labor minutes based on how long the retreat was and how much they attended. The Mandatory Labor Shift is still required.
+ - Invulnerability Potion: Members is need of a labor reduction/exemption may approach MemDev with a request; ideally a few days before it would go into effect so that MemDev may consider and respond thoughtfully. These requests should be things that will affect them deeper than just "being busy," including but not limited to medical or traumatic life events. It is helpful if there is a specific request in mind as MemDev may collaborate to create a solution as well. If the reduction or exemption is longer than a month a House Check-in in terms of support will happen at the next meeting. The decision will be made by MemDev within 48 hours with a vote by a minimum of three or all the people in MemDev. If the request is to affect the current week a pause will be trigered where the Member will receive POOT and no Mandatory Labor for that week. MemDeb reserves the right to revoke the POOT if they suspect labor dishonesty.
+
+ ### Recording Labor
+ 
+ - Members should record their labor by Tuesday morning on the Weekly and Mandatory Shift Board. Calculate the total number of minutes worked and circle it. Put a note for OOT or POOT circumstances on both boards if applicable.
+ - Note the date, total minutes, and a short discription of each task completed (e.g. 4/16 Mop Kitchen Hallway - 30(mins)). 
+ - Members that have not recorded their labor by the time it is counted must get their labor to MemDev within 48 hours of labor being counted. If they do not, no credit will be received that week.
+
+
+ ### Creating Your Own Labor System?
