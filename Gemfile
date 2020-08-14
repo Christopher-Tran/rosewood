@@ -4,4 +4,4 @@ gem "github-pages"
 gem "jekyll-include-cache"
 gem "minimal-mistakes-jekyll"
 
-group :jekyll_plugins
+group: jekyll_plugins
