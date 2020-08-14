@@ -145,7 +145,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  - basics
+  - basics/why_commune.md
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
