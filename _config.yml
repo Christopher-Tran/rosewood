@@ -280,5 +280,6 @@ defaults:
       comments: # false
       share: true
       related: true
+      toc: true
 
 
