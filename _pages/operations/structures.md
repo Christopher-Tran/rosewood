@@ -1,9 +1,5 @@
 # Overarching Structures
-<<<<<<< HEAD:operations/structures.md
-#### 08/14/2020
-=======
 08/10/2020
->>>>>>> gh_pages:_pages/operations/structures.md
 
 Rosewood Community as of 2020 is best described as a non-hierarchical adhocracy. A community whose members may shape it into whatever fills their collective needs. 
 
@@ -21,4 +17,4 @@ Consistent vested interest, accountability, and organization is necessary to non
 
 Though members are only expected to join one Committee it is also their responsibility to be up-to-date/knowledgable of all (a "supporting" member); due to the non-hierarchical organization. For example, as all members have equal say in the budget they should be knowledgeable of how cash flows in the Community even when not a part of Accounting. Accounting has the responsibility to input the changes and track/communicate  
 
-### Reoccuring Issues
+### Reoccuring Issues - Beyond the ___ Hype

@@ -93,19 +93,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rosewood Community"
+  name             : "Rosewood"
   avatar           : "/assets/images/front_house.png"
   bio              : "East Austin Community Housing since 2011"
   location         : "Austin, TX"
-  email            : "rosewood.coop@gmail.com"
+  email            : # "rosewood.coop@gmail.com"
   links:
+    - label: "Rosewood's Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:rosewood.coop@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
+    - label: "Rosewood's Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/RosewoodCollectiveHousingCooperative/"
     - label: "GitHub"
@@ -123,10 +126,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/RosewoodCollectiveHousingCooperative/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/Christopher-Tran"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
