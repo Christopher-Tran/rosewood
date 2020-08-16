@@ -1,5 +1,5 @@
 # What/Why Community Housing?
-#### 08/09/2020
+08/09/2020
 
 There is no one way to do Community Housing. But ask any "community" in the world and there is often the shared reasoning of humans are social creatures. Being a part of a group may empower people as individuals and collectives in ways that are unguided and guided. Unguided benefits of community living encompass collective power and social enrichment. Guided benefits advance these into new realms like sustainability and social mobility. A group of friends living together may decide as a group to commit to growing 50% of the food consumed; capitalizing on their collective power in a way to be ecologically/economically conscious, see Ecovillage.
 

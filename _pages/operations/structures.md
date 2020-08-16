@@ -1,5 +1,9 @@
 # Overarching Structures
+<<<<<<< HEAD:operations/structures.md
 #### 08/14/2020
+=======
+08/10/2020
+>>>>>>> gh_pages:_pages/operations/structures.md
 
 Rosewood Community as of 2020 is best described as a non-hierarchical adhocracy. A community whose members may shape it into whatever fills their collective needs. 
 

@@ -1,5 +1,5 @@
 # Rosewood Values
-#### 08/13/20
+08/13/20
 
 ## Intrinsic Values
 
