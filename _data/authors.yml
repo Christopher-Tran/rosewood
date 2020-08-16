@@ -1,0 +1,19 @@
+# Authors
+
+Christopher Tran:
+  name        : "Christopher Tran"
+  bio         : "Rosewookie in perpetual motion."
+  avatar      : #"/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ChrisTran.APS@gmail.com"
+
+Rosewood:
+  name        : "Rosewood"
+  bio         : "Community Housing in East Austin since 2011"
+  avatar      : #"/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:rosewood.coop@gmail.com"

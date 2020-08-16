@@ -11,13 +11,13 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "Christopher-Tran/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Rosewood"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : "v0.1"
 name                     : "Christopher Tran"
 description              : "Repo for Rosewood Community Resources"
@@ -94,14 +94,11 @@ analytics:
 # Site Author
 author:
   name             : "Rosewood Community"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/front_house.png"
+  bio              : "East Austin Community Housing since 2011"
   location         : "Austin, TX"
   email            : "rosewood.coop@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:rosewood.coop@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -110,10 +107,10 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/RosewoodCollectiveHousingCooperative/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Christopher-Tran"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -145,9 +142,6 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _data
-  - .md
-  - .yml
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -197,7 +191,7 @@ kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 6
+  toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
@@ -212,7 +206,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: America/Chicago
+timezone: "America/Chicago"
 
 
 # Plugins (previously gems:)
@@ -222,6 +216,12 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-titles-from-headings
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true 
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -271,15 +271,15 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
-      show_date: true
-      read_time: true
+      #show_date: true
+      #read_time: true
       comments: # false
       share: true
       related: true
